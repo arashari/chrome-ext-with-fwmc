@@ -36,7 +36,7 @@ function addImageToThumbnails() {
         overlayImg.style.zIndex = '10';
         overlayImg.classList.add('overlay-image');
 
-        container.appendChild(overlayImg);
+        container.firstElementChild.appendChild(overlayImg);
       } catch (error) {
         console.log('FUWAMOCO Extension: Context invalidated, stopping overlay injection');
         return;

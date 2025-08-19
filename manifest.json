@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "FUWAMOCO Everywhere",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Let the demon dog twins guide your web-surfing journey. We're not responsible for any chaos that ensues. Idea from https://x.com/paramedsz/status/1951152462393450518",
   "permissions": ["activeTab"],
   "content_scripts": [
